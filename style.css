@@ -1,0 +1,25 @@
+@charset "UTF-8";@import url(https://cdn.anarchyzeus.wiki/noselect.css);@import url(https://use.fontawesome.com/releases/v5.8.1/css/all.css);@font-face{font-family:i;src:url(i.woff2) format('woff2'),url(i.woff) format('woff')}html{margin:auto;background-color:rgb(10, 10, 10);font-family:Arial, sans-serif, Courier; color: white;}.x{text-align:center}.y{font-family:i;font-size:calc(2.3em + 2.3vw);color:black}.y:hover{color:#fff}.w{color:#fff}.b{color:rgb(0, 0, 0)}.q{margin-top:.5em}article{margin-top:1.5em;font-size:.9em}.i{float:left}.u{float:right;text-align:right;margin-bottom:1.5em}input[type=file]{display:none}input[type=submit]{border: 1px solid white; padding:2px 5px;background:0 0}td{color:white;}th{font-weight:400;}.et{text-align:left;color:black}.r:hover{background:#0e302c}.l{border:1px solid #ffffff;padding:2px;background:0 0}footer{margin-top:2em;height:2.2rem;width:100%;font-size:.9em}footer:hover{color:#fff}a{text-decoration:none;color:white}a:hover{color:orange}.m{margin-left:2.4em}textarea{background:0 0;border:none;width:70%;height:30em;font-family:Courier;font-size:.9em}textarea.o{background:#fff}.h{color:#ea2027}
+@import url('https://fonts.googleapis.com/css2?family=Tourney&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+.duk{
+    font-family: 'Tourney', cursive;
+}
+.as{border-bottom: 1px solid black; padding: 0px 5px; border-radius: 3px;}
+.dis{
+    display: flex;
+}
+.h1{
+    font-family: 'Kaushan Script', cursive;
+    text-shadow: 2px 2px orange;
+}
+ul{list-style: none;}
+.tb{
+   background-color: black;
+}
+th{
+    border-bottom:thin solid white;
+    color:#fff;
+}
+.h1{
+    font-family: 'Tourney', cursive;
+}
